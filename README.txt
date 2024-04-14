@@ -1,6 +1,8 @@
 # Name: Hamzah Hamad
 # Professors: Ahmed and Abdelghany 
 # Group: 170 (Alone)
+# Video Link: https://drive.google.com/file/d/1-Ly74MLiA_X6VERZ91Pa5Ac-gMpoEiXh/view?usp=sharing
+  ---> Tried my best not to go over 15 minutes!
 
 # Project: Health-and-Fitness-Club-Management-System
 
